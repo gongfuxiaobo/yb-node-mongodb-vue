@@ -2,9 +2,13 @@
 
 > 这是一个node + mongodb + koa2 + koa-router + vue的实战项目，简单示例展示的是一个用户管理界面，主要功能：新增、删除、查看、编辑。查看功能包括：分页、排序。
 
-## Build Setup
+## mongoDB Setup
 
 安装mongoDB[下载地址](https://www.mongodb.com/download-center#community)
+
+mongoDB基础教程(http://www.runoob.com/mongodb/mongodb-tutorial.html)经供参考
+
+## 启动步骤
 
 ``` bash
 # install dependencies
