@@ -6,7 +6,7 @@
 
 安装mongoDB[下载地址](https://www.mongodb.com/download-center#community)
 
-mongoDB基础教程(http://www.runoob.com/mongodb/mongodb-tutorial.html)经供参考
+mongoDB[基础教程](http://www.runoob.com/mongodb/mongodb-tutorial.html)经供参考
 
 ## 启动步骤
 
