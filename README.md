@@ -4,6 +4,8 @@
 
 ## Build Setup
 
+安装mongoDB[下载地址](https://www.mongodb.com/download-center#community)
+
 ``` bash
 # install dependencies
 npm install
