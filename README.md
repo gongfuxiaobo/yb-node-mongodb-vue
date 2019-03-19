@@ -1,12 +1,15 @@
-# y
+# yb_node_mongodb_vue
 
-> y
+> 这是一个node + mongodb + koa2 + koa-router + vue的实战项目，简单示例展示的是一个用户管理界面，主要功能：新增、删除、查看、编辑。查看功能包括：分页、排序。
 
 ## Build Setup
 
 ``` bash
 # install dependencies
 npm install
+
+# startup node service
+node .\src\node_koa\app.js
 
 # serve with hot reload at localhost:8080
 npm run dev
