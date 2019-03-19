@@ -1,0 +1,10 @@
+{
+  "id": "yb-mongodb-1",
+  "userName": "test",
+  "name": "张三",
+  "sex": "男",
+  "age": 18,
+  "address": "西部智谷B区",
+  "student": 1,
+  "status": true
+}
